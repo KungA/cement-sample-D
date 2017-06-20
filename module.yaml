@@ -5,3 +5,5 @@ full-build:
     target: D.sln
     configuration: Release
 
+  install:
+    - D\bin\Release\D.dll
